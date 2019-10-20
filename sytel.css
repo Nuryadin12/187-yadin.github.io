@@ -1,0 +1,163 @@
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+}
+.warna
+{
+	color: #FF8C00;
+}
+.header
+ {
+	
+	background-image: url('2.jpg');
+	height: 100%;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 500px;
+}
+
+.header ul
+{
+	margin: 0;
+	padding: 20px;
+	text-align: center;
+}
+
+.header a
+{
+	color: white;
+}
+
+.perubahan
+{
+	display: inline-block;
+	margin-right: 30px;
+}
+
+.perubahan a
+{
+	text-decoration: none;
+}
+
+.selamat
+{
+	text-align: center;
+	padding: 0;
+	color: white;
+}
+
+.selamat h1
+{
+	margin-top: 10%;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.data
+{
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	background-color:  #6495ED;
+}
+
+.data div
+{
+	display: inline-block;
+	text-decoration: none; 
+	color: white;
+
+}
+
+.biodata
+{
+	background-image: url('3.jpg');
+	height: 100%;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 500px;
+}
+
+.biodata h1
+{
+	margin: 0;
+	padding: 10px;
+	text-align: center;
+
+}
+
+.galeri
+{
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+}
+
+.galeri div
+{
+	text-align: center;
+	display: inline-block;
+}
+
+.galeri div a
+{
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.pendidikan
+	{
+	background-image: url('3.jpg');
+	height: 100%;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 700px;
+	}
+
+.pendidikan h1
+{
+	margin: 0;
+	padding: 20px;
+	text-align: center;
+}
+.ap p
+{
+
+	text-align: center;
+	color: white;
+	text-decoration: none;
+}
+
+
+
+.kontak h1
+{
+	text-align: center;
+}
+
+.gambar
+{
+	margin: 0;
+	padding: 20px;
+	background-color: #6495ED;;
+}
+.gambar h2{
+	text-align: center;
+	color: white;
+}
+
+
+.gambar-item img
+{
+	width: 5%;
+}
